@@ -1,1 +1,1 @@
-# POO_C-plus-plus
+# Programmation Orienté Objet en C++
