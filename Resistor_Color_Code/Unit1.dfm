@@ -1,6 +1,7 @@
 object Form1: TForm1
   Left = 0
   Top = 0
+  BorderIcons = [biSystemMenu, biMinimize]
   Caption = 'Resistor Calculator'
   ClientHeight = 299
   ClientWidth = 434
@@ -28,8 +29,6 @@ object Form1: TForm1
     Font.Name = 'Sylfaen'
     Font.Style = [fsBold]
     ParentFont = False
-    ExplicitLeft = 240
-    ExplicitTop = 8
     ExplicitWidth = 136
   end
   object Label2: TLabel

@@ -1,6 +1,7 @@
 object Form1: TForm1
   Left = 0
   Top = 0
+  BorderIcons = [biSystemMenu, biMinimize]
   Caption = 'Voltage & Power Calculator'
   ClientHeight = 260
   ClientWidth = 450
